@@ -1,0 +1,16 @@
+.btn {
+    padding: 5px;
+    text-decoration: none;
+    color: #000;
+}
+
+.book-now {
+    cursor: pointer;
+    background-color: #686869;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFF;
+    line-height: 1;
+    padding: 10px;
+    width: 112px;
+}

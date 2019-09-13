@@ -1,0 +1,20 @@
+.is-center {
+    text-align: center;
+}
+
+.is-bg-white {
+    background-color: #fff;
+}
+
+.hide {
+    display: none;
+}
+
+.content {
+    position: relative;
+}
+
+.width-70 {
+    width: 70%;
+    margin: 0 auto;
+}
